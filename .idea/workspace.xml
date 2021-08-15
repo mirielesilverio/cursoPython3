@@ -40,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.using_input">
+  <component name="RunManager" selected="Python.using_logic_operators">
     <configuration name="formatting_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,19 +62,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="using_arithmetic_operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="using_conditional_structures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\mirie\AppData\Local\Programs\Python\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arithmeticOperators" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/conditionalStructures" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arithmeticOperators/using_arithmetic_operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/conditionalStructures/using_conditional_structures.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,19 +104,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="using_strings_base" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="using_logic_operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursopython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\mirie\AppData\Local\Programs\Python\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/usingStrings" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/logicOperators" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/usingStrings/using_strings_base.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logicOperators/using_logic_operators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.using_logic_operators" />
+        <item itemvalue="Python.using_conditional_structures" />
         <item itemvalue="Python.using_input" />
         <item itemvalue="Python.formatting_strings" />
         <item itemvalue="Python.using_variables" />
-        <item itemvalue="Python.using_arithmetic_operators" />
-        <item itemvalue="Python.using_strings_base" />
       </list>
     </recent_temporary>
   </component>
@@ -186,25 +186,29 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="0" key="#using_variables/0.0.1366.728@0.0.1366.728" timestamp="1629062629517" />
-    <state width="1343" height="178" key="GridCell.Tab.0.bottom" timestamp="1629065049043">
+    <state width="1343" height="178" key="GridCell.Tab.0.bottom" timestamp="1629068285273">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1629065049043" />
-    <state width="1343" height="178" key="GridCell.Tab.0.center" timestamp="1629065049043">
+    <state width="1343" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1629068285273" />
+    <state width="1343" height="178" key="GridCell.Tab.0.center" timestamp="1629068285273">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1629065049043" />
-    <state width="1343" height="178" key="GridCell.Tab.0.left" timestamp="1629065049043">
+    <state width="1343" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1629068285273" />
+    <state width="1343" height="178" key="GridCell.Tab.0.left" timestamp="1629068285273">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1629065049043" />
-    <state width="1343" height="178" key="GridCell.Tab.0.right" timestamp="1629065049043">
+    <state width="1343" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1629068285273" />
+    <state width="1343" height="178" key="GridCell.Tab.0.right" timestamp="1629068285273">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1343" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1629065049043" />
+    <state width="1343" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1629068285273" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1629063299187">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1629063299187" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1629066023218">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1629066023218" />
   </component>
 </project>
